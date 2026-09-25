@@ -1,0 +1,17 @@
+body
+{
+		background-color:pink;
+		font-family:arial;
+}
+table
+{
+		border-color:gray;
+		box-shadow: 5px 5px 5px;
+		text-align:center;
+		background-color:black;
+		
+}
+#class
+{
+	background-color:gray;
+}
