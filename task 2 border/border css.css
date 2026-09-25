@@ -1,0 +1,37 @@
+body
+	{
+	
+       
+	   background-image: url('f1.jpg');
+	   background-size:cover;
+	
+    }
+h1 
+	{
+	
+	color:black;
+	
+	
+	
+	font-family:arials;
+	
+	}
+h2
+	{
+		
+		color:black;
+	
+	
+	
+	font-family:arials;
+
+	}		
+p	
+	{
+		
+	color:black;
+	background-image: url('shinobu.jpg');
+	
+	font-family:arials;
+		
+	}
